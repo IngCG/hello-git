@@ -1,2 +1,1 @@
-print (' New Hello Git')
-print ('Que pedo')
+print (' New Hello GitHub')
